@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lee8950
-- 👀 I’m interested in machine learning/deep learning(0 knowledge)
+- 👀 I’m interested in historical archives
 - 🌱 I’m currently learning in SYSU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send mail to 709064332@qq.com
