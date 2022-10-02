@@ -1,4 +1,4 @@
-#I know so little about the world and I am still holding the passion to knowledge.
+# I know so little about the world and I am still holding the passion to knowledge.
 
 - 👋 Hi, I’m @Lee8950
 - 👀 I’m interested in computer vision
