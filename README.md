@@ -1,8 +1,8 @@
 # I know so little about the world and I am still holding the passion to knowledge.
 
 - 👋 Hi, I’m @Lee8950
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently studying in SYSU
+- 👀 I’m interested in learning
+- 🌱 I’m currently studying in random university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send mail to 709064332@qq.com
 
