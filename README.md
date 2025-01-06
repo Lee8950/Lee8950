@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently studying in random university
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send mail to 709064332@qq.com
+- 📫 How to reach me send mail to rlylzzz@qq.com
 
 
 
